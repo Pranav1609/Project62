@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+#Logo {
+    height: 50vh;
+    width: 150vh;
+}
+
+img {
+    width: 350px;
+}
+
+#myCarousel {
+    background-color: red;
+}
+
+.imgs {
+    display: inline;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 25px;
+}
+
+.carousel-inner {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: Purple;
+    font-size: 20px;
+}
